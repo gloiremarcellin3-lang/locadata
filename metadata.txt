@@ -1,0 +1,16 @@
+[general]
+name=LocaData
+qgisMinimumVersion=3.16
+description=Evaluation multicritere de l'aptitude des sites a accueillir des data centers. Combine energie, foncier, connectivite et acceptabilite territoriale.
+version=1.0.0
+author=Gloire Marcellin Mbamba Mouanda
+email=gloiremarcellin3@gmail.com
+
+about=Plugin developpe dans le cadre du Master Geomatique Appliquee aux Etudes Urbaines et aux Risques (CY Cergy Paris Universite, 2024-2026). Automatise la methodologie multicritere d implantation des data centers.
+
+tags=data center,multicritere,urbanisme,foncier,energie,scoring
+
+category=Vector
+icon=resources/icon.png
+experimental=False
+deprecated=False
